@@ -1,0 +1,66 @@
+[
+	{
+		"id": "8902519001207",
+		"item": "Classmate Exercise Book",
+		"description": "160 pages",
+		"price": 65 
+	},
+	{
+		"id": "X000FWZRU9",
+		"item": "BSC-101 STAR",
+		"description": "Advanced High Speed CCD Scanner",
+		"price": 2499
+	},
+	{
+		"id": "8901324005820",
+		"item": "Apsara",
+		"description": "White Dustless Chalks",
+		"price": 20
+	},
+	{
+		"id": "20179484",
+		"item": "RFID Reader",
+		"description": "Reader with USB connection",
+		"price": 499
+	},
+	{
+		"id": "9780070495432",
+		"item": "The Complete Reference Java 2 Fifth edition",
+		"description": "Herbert Schildt, TATA McGRAW HILL",
+		"price": 340
+	},
+	{
+		"id": "8901725131340",
+		"item": "Sunfeast Farmlite Digestive",
+		"description": "Made from AASHIRVAAD Atta",
+		"price": 25
+	},
+	{
+             "Name":  "Vysyaraju Srija",
+             "id":  "316126511060",
+             "Aadhar no":  "6648 3820 5061",
+             "Phone no":  "7286836511",
+             "Branch":  "IT"
+         },
+         {
+             "Name":  "Vysyaraju Kavya",
+             "id":  "316126511059",
+             "Aadhar no":  "6131 6518 3897",
+             "Phone no":   "8919164837",
+             "Branch":  "IT"
+          },
+          {
+              "Name":  "Jaideep Samarouthu",
+              "id":  "316126511050",
+              "Aadhar no":  "8215 3573 2581",
+              "Phone no":  "9966284293",
+              "Branch":  "IT"
+           }
+           {
+		"id": "4756238593",
+		"item": "cococola",
+		"description": "cooldrink",
+		"price": 25
+	  }
+]
+
